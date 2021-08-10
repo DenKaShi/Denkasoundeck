@@ -187,3 +187,18 @@ main.main
 	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
 runtime.main
 	c:/go/src/runtime/proc.go:203
+2021-08-10 22:55:32.473	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 22:55:32.505	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 22:55:32.506	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 22:55:32.839	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 22:55:32.839	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203
