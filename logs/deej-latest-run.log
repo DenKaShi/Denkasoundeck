@@ -1,0 +1,189 @@
+2021-06-05 20:02:44.634	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-05 20:02:44.807	info	deej.config                	Loaded config successfully
+2021-06-05 20:02:44.808	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2021-06-05 20:02:44.926	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-06-05 20:02:44.992	info	deej                       	Run loop starting
+2021-06-05 20:02:44.992	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2021-06-05 20:02:44.993	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2021-06-05 20:02:44.993	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2021-06-05 20:02:44.996	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2021-06-05 20:02:45.549	info	deej                       	Stopping
+2021-06-05 20:03:02.891	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-05 20:03:02.954	info	deej.config                	Loaded config successfully
+2021-06-05 20:03:02.954	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2021-06-05 20:03:03.082	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-06-05 20:03:03.139	info	deej                       	Run loop starting
+2021-06-05 20:03:03.139	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2021-06-05 20:03:03.140	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2021-06-05 20:03:03.140	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2021-06-05 20:03:03.140	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2021-06-05 20:03:03.691	info	deej                       	Stopping
+2021-08-09 13:26:12.507	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-09 13:26:12.644	info	deej.config                	Loaded config successfully
+2021-08-09 13:26:12.644	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2021-08-09 13:26:12.756	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-09 13:26:12.834	info	deej                       	Run loop starting
+2021-08-09 13:26:12.834	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2021-08-09 13:26:12.835	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2021-08-09 13:26:12.835	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2021-08-09 13:26:12.835	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2021-08-09 13:26:13.188	info	deej                       	Stopping
+2021-08-10 18:08:52.231	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:08:52.288	info	deej.config                	Loaded config successfully
+2021-08-10 18:08:52.288	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:08:52.387	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:08:52.436	info	deej                       	Run loop starting
+2021-08-10 18:08:52.436	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2021-08-10 18:08:52.436	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2021-08-10 18:08:52.436	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2021-08-10 18:08:52.436	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2021-08-10 18:08:52.772	info	deej                       	Stopping
+2021-08-10 18:09:01.158	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:09:01.187	info	deej.config                	Loaded config successfully
+2021-08-10 18:09:01.187	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:09:01.292	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:09:01.342	info	deej                       	Run loop starting
+2021-08-10 18:09:01.342	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2021-08-10 18:09:01.343	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2021-08-10 18:09:01.343	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2021-08-10 18:09:01.343	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2021-08-10 18:09:01.740	info	deej                       	Stopping
+2021-08-10 18:51:10.167	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:51:10.196	info	deej.config                	Loaded config successfully
+2021-08-10 18:51:10.196	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM1","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:51:10.304	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:51:10.350	info	deej                       	Run loop starting
+2021-08-10 18:51:10.350	info	deej.serial.com1           	Connected	{"conn": {}}
+2021-08-10 18:51:39.132	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:51:39.162	info	deej.config                	Loaded config successfully
+2021-08-10 18:51:39.162	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM1","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:51:39.262	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:51:39.306	info	deej                       	Run loop starting
+2021-08-10 18:51:39.306	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2021-08-10 18:51:39.306	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2021-08-10 18:51:39.306	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM1"}
+2021-08-10 18:51:39.306	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM1!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2021-08-10 18:51:39.625	info	deej                       	Stopping
+2021-08-10 18:52:10.881	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:52:10.911	info	deej.config                	Loaded config successfully
+2021-08-10 18:52:10.911	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM1","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:52:11.010	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:52:11.054	info	deej                       	Run loop starting
+2021-08-10 18:52:11.054	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2021-08-10 18:52:11.055	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2021-08-10 18:52:11.055	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM1"}
+2021-08-10 18:52:11.055	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM1!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2021-08-10 18:52:11.369	info	deej                       	Stopping
+2021-08-10 18:56:39.683	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:56:39.716	info	deej.config                	Loaded config successfully
+2021-08-10 18:56:39.716	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:56:39.855	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:56:39.920	info	deej                       	Run loop starting
+2021-08-10 18:56:39.920	info	deej.serial.com3           	Connected	{"conn": {}}
+2021-08-10 18:56:45.443	info	deej.serial.com3           	Detected sliders	{"amount": 5}
+2021-08-10 18:56:45.537	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:57:26.876	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 18:57:26.912	info	deej.config                	Loaded config successfully
+2021-08-10 18:57:26.912	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2021-08-10 18:57:27.013	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-08-10 18:57:27.067	info	deej                       	Run loop starting
+2021-08-10 18:57:27.067	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2021-08-10 18:57:27.068	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2021-08-10 18:57:27.068	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM3"}
+2021-08-10 18:57:27.068	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM3!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2021-08-10 18:57:27.417	info	deej                       	Stopping
+2021-08-10 19:01:22.766	info	deej.tray                  	Edit config menu item clicked, opening config for editing
+2021-08-10 19:01:43.824	info	deej.tray                  	Quit menu item clicked, stopping
+2021-08-10 19:01:43.824	info	deej                       	Stopping
+2021-08-10 19:01:45.479	info	deej.tray                  	Quit menu item clicked, stopping
+2021-08-10 19:01:45.479	info	deej                       	Stopping
+2021-08-10 19:08:58.214	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:08:58.312	info	deej.config                	Loaded config successfully
+2021-08-10 19:08:58.312	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2021-08-10 19:08:58.482	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<26 audio sessions>"}
+2021-08-10 19:08:58.557	info	deej                       	Run loop starting
+2021-08-10 19:08:58.559	info	deej.serial.com3           	Connected	{"conn": {}}
+2021-08-10 19:09:01.782	info	deej.serial.com3           	Detected sliders	{"amount": 5}
+2021-08-10 19:09:44.791	info	deej.tray                  	Refresh sessions menu item clicked, triggering session map refresh
+2021-08-10 19:09:44.895	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<26 audio sessions>"}
+2021-08-10 19:16:52.107	info	deej.tray                  	Refresh sessions menu item clicked, triggering session map refresh
+2021-08-10 19:16:52.217	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<27 audio sessions>"}
+2021-08-10 19:19:50.504	info	deej.tray                  	Refresh sessions menu item clicked, triggering session map refresh
+2021-08-10 19:19:50.617	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<27 audio sessions>"}
+2021-08-10 19:20:36.200	info	deej.tray                  	Quit menu item clicked, stopping
+2021-08-10 19:20:36.200	info	deej                       	Stopping
+2021-08-10 19:20:43.689	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:20:43.721	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 19:20:43.721	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 19:20:44.091	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:20:44.091	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:01.419	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:28:01.453	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 19:28:01.454	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 19:28:01.810	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:01.810	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:21.705	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:28:21.735	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 19:28:21.735	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 19:28:22.075	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:22.075	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:39.381	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:28:39.415	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 19:28:39.415	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 19:28:39.755	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:28:39.755	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:32:14.183	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-08-10 19:32:14.218	warn	deej.config                	Viper failed to read user config	{"error": "While parsing config: yaml: line 12: could not find expected ':'"}
+2021-08-10 19:32:14.218	info	deej.notifier              	Sending toast notification	{"title": "Invalid configuration!", "message": "Please make sure config.yaml is in a valid YAML format."}
+2021-08-10 19:32:14.635	error	deej                       	Failed to load config during initialization	{"error": "read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+github.com/omriharel/deej.(*Deej).Initialize
+	D:/Projects/go/src/github.com/omriharel/deej/deej.go:91
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:63
+runtime.main
+	c:/go/src/runtime/proc.go:203
+2021-08-10 19:32:14.635	fatal	main                       	Failed to initialize deej	{"error": "load config during init: read user config: While parsing config: yaml: line 12: could not find expected ':'"}
+main.main
+	D:/Projects/go/src/github.com/omriharel/deej/cmd/main.go:64
+runtime.main
+	c:/go/src/runtime/proc.go:203

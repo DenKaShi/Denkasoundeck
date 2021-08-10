@@ -1,0 +1,22 @@
+7 potentiometre
+- master
+- Discord
+- Jeux
+- Musique
+- Chrome
+- Spare
+
+X Boutons programable
+- Scene ouverture
+- Scene CSGO
+- Scene No Man's Sky
+- Scene KSP
+- GTA
+- Discution
+- Pause
+- Spare
+- Mute sortie de stream
+- Mute micro pour le stream
+-Spare
+
+Ecran LED ?
